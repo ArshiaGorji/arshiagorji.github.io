@@ -355,7 +355,7 @@ window.CONTENT.fa = {
       items: [
         { icon: "mail", label: "ایمیل", value: "arshiagorji.w@gmail.com", link: "mailto:arshiagorji.w@gmail.com", copy: true },
         { icon: "phone", label: "تلفن همراه", value: "۰۹۱۰ ۹۰۹ ۶۱۹۹", link: "tel:+989109096199" },
-        { icon: "linkedin", label: "لینکدین", value: "Mohammad Arshia Gorji", link: "" },   // ← آدرس لینکدین
+        { icon: "linkedin", label: "لینکدین", value: "Mohammad Arshia Gorji", link: "https://www.linkedin.com/in/mohammad-arshia-gorji-35a924355" },   // ← آدرس لینکدین
         { icon: "map-pin", label: "محل سکونت", value: "تهران، ایران" },
       ],
     },
