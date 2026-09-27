@@ -27,7 +27,7 @@ window.CONTENT.fa = {
     intro: "هدف من شناسایی و ساخت فرصت‌هایی است که به خلق ارزش و درآمد منجر شوند.",
     status: "آماده همکاری و فرصت‌های تجاری جدید",
     location: "تهران، ایران",
-    photo: "assets/img/profile.jpg",
+    photo: "assets/img/IMG_7869.PNG",
     photoAlt: "تصویر محمد عرشیا گرجی",
 
     buttons: [
