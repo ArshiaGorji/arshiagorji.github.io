@@ -43,7 +43,7 @@ window.CONTENT.en = {
     intro: "My goal is to identify and build opportunities that lead to value creation and revenue.",
     status: "Open to business opportunities & collaborations",   // "" hides the badge
     location: "Tehran, Iran",
-    photo: "assets/img/profile.jpg",        // replace this file to change the photo
+    photo: "assets/img/assets/img/profile.jpg",        // replace this file to change the photo
     photoAlt: "Portrait of Mohammad Arshia Gorji",
 
     buttons: [
