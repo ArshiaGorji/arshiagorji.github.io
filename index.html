@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- ==============================================================
+       SEARCH ENGINES & LINK PREVIEWS
+       This is what Google, LinkedIn, WhatsApp, Telegram… show when
+       your link is shared. The visible page text lives in content/.
+       ============================================================== -->
+  <title>Mohammad Arshia Gorji — Financial Analyst &amp; Industrial Engineer</title>
+  <meta name="description" content="Financial analyst and industrial engineer specializing in financial modeling, startup valuation, feasibility studies and data analysis.">
+  <meta name="author" content="Mohammad Arshia Gorji">
+
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Mohammad Arshia Gorji — Financial Analyst &amp; Industrial Engineer">
+  <meta property="og:description" content="Financial modeling · Valuation · Feasibility studies">
+  <!-- After you publish, replace YOUR-SITE-ADDRESS with your real address,
+       e.g. https://yourname.github.io/assets/img/profile.jpg -->
+  <meta property="og:image" content="https://YOUR-SITE-ADDRESS/assets/img/profile.jpg">
+  <meta name="twitter:card" content="summary">
+
+  <meta name="theme-color" content="#0f2440">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+
+  <!-- Fonts (free, from Google Fonts) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@400;500;600;700&family=Vazirmatn:wght@400;500;600;700;800&display=swap">
+
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- Remembers errors in the content files so the page can explain them -->
+  <script>
+    window.__siteErrors = [];
+    window.addEventListener('error', function (e) {
+      window.__siteErrors.push({ message: e.message, file: e.filename, line: e.lineno });
+    });
+  </script>
+  <script src="content/settings.js"></script>
+  <!-- Picks light or dark before the page is drawn (no white flash) -->
+  <script>
+    (function () {
+      var theme = (window.SITE_SETTINGS && window.SITE_SETTINGS.theme) || {};
+      var chosen = null;
+      try { if (theme.showToggle !== false) chosen = localStorage.getItem('theme'); } catch (e) {}
+      if (chosen !== 'light' && chosen !== 'dark') {
+        chosen = theme.default === 'dark' ? 'dark'
+          : theme.default === 'auto' && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark'
+          : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', chosen);
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header" id="site-header"></header>
+  <main id="main"></main>
+  <footer class="site-footer" id="site-footer"></footer>
+
+  <noscript><p class="noscript">Please turn on JavaScript to view this website.</p></noscript>
+
+  <!-- ==============================================================
+       YOUR CONTENT — edit these files (not this page):
+         content/en.js   → English text
+         content/fa.js   → Persian text
+       Using only one language? You can delete the other file and
+       its line below.
+       ============================================================== -->
+  <script src="content/en.js"></script>
+  <script src="content/fa.js"></script>
+
+  <!-- Builds the page from the content files -->
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
