@@ -129,7 +129,7 @@ window.CONTENT.en = {
       title: "Work experience",
       items: [
         {
-          title: "Financial Analyst",
+          title: "Venture Analyst",
           place: "Gam Energy",
           period: "Oct 2025 – Present",
           location: "Tehran",
@@ -138,10 +138,10 @@ window.CONTENT.en = {
             "Writing business plans that meet the expectations of international assessment bodies and investors",
             "Designing dashboards and management reports for investors and stakeholders",
           ],
-          tags: ["Financial modeling", "Startup Visa", "Business plans", "Dashboards"],
+          tags: ["Financial modeling", "Startup Valuation", "Business plans", "Dashboards"],
         },
         {
-          title: "Economic Project Appraisal Specialist",
+          title: "Investment Analyst",
           place: "Damas",
           period: "Jun 2024 – Jun 2025",
           location: "Tehran",
