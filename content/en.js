@@ -384,7 +384,7 @@ window.CONTENT.en = {
       items: [
         { icon: "mail", label: "Email", value: "arshiagorji.w@gmail.com", link: "mailto:arshiagorji.w@gmail.com", copy: true },
         { icon: "phone", label: "Phone", value: "+98 910 909 6199", link: "tel:+989109096199" },
-        { icon: "linkedin", label: "LinkedIn", value: "Mohammad Arshia Gorji", link: "" },   // ← paste your LinkedIn address
+        { icon: "linkedin", label: "LinkedIn", value: "Mohammad Arshia Gorji", link: "https://www.linkedin.com/in/mohammad-arshia-gorji-35a924355" },   // ← paste your LinkedIn address
         { icon: "map-pin", label: "Location", value: "Tehran, Iran" },
       ],
     },
