@@ -131,22 +131,22 @@ window.CONTENT.en = {
         {
           title: "Venture Analyst",
           place: "Gam Energy",
-          period: "Oct 2025 – Present",
+          period: "Sep 2025 – Present",
           location: "Tehran",
           points: [
-            "Financial analysis and modeling of startups, including **Startup Visa** program cases",
-            "Writing business plans that meet the expectations of international assessment bodies and investors",
-            "Designing dashboards and management reports for investors and stakeholders",
+            "Work with the founders of six ventures in digital health, eldercare, industrial safety and smart infrastructure.",
+            "Build the financial models and value each venture.",
+            "Prepared business plans and investor pitch decks for fundraising",
           ],
           tags: ["Financial modeling", "Startup Valuation", "Business plans", "Dashboards"],
         },
         {
           title: "Investment Analyst",
           place: "Damas",
-          period: "Jun 2024 – Jun 2025",
+          period: "Sep 2024 – Aug 2025",
           location: "Tehran",
           points: [
-            "Financial analysis and modeling of investment projects",
+            "Financial analysis and modeling of investment projects, modelled NPV, IRR, payback, cash flows and break-even for each one.",
             "Preparing feasibility studies covering technical, financial and economic aspects",
             "Building dashboards and analytical reports as the basis for investment decisions",
           ],
